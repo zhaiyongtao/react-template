@@ -1,0 +1,14 @@
+/dist/
+/node_modules/
+/yarn-error.log
+/temp_cache/
+/.idea/
+/.git/
+/build/
+/.DS_Store/
+/.run/
+/.vscode/
+/.DS_Store
+*/.DS_Store
+.DS_Store
+/.history
